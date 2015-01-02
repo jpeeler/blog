@@ -1,0 +1,6 @@
+baseurl = "http://jpeeler.github.io"
+languageCode = "en-us"
+title = "I like to explain things"
+
+[Params]
+Description = "A blog about technologies related to Fedora, the cloud, or whatever else may be thought by me to be interesting."
