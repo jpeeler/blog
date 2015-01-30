@@ -2,6 +2,7 @@
 date = "2015-01-02T01:57:37-05:00"
 draft = false
 title = "first blog post"
+categories = [ "technology" ]
 
 +++
 
